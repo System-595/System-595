@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @System-595
+- 👋 Hi, I’m @Divyaansh Rai Gandhi
 - 👀 I’m interested in Blue Teaming and Bikes
 - 🌱 I’m currently learning Linux and DSA
 - 📫 How to reach me divyaanshraigandhi@gmail.com
