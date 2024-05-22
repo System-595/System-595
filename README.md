@@ -2,7 +2,6 @@
 - 👀 I’m interested in Blue Teaming and Bikes
 - 🌱 I’m currently learning Linux and DSA
 - 📫 How to reach me divyaanshraigandhi@gmail.com
-- 😄 Pronouns: king/he/him/master
 - ⚡ Fun fact: A cyberattack happens every 39 seconds.
 
 <!---
